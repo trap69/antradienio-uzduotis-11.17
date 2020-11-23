@@ -1,3 +1,7 @@
 .weather {
     max-width: 30%;
+    margin-top: 2rem!important;
+}
+label {
+    padding: 0.5rem;
 }
